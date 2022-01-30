@@ -13,7 +13,7 @@ if(isNaN(n)){
 } 
 else
 {
-    for(i=1;i<=n;i++)
+    for(i=2;i<=n;i++)
        {
              count=i;
              f=0;
